@@ -43,7 +43,7 @@ password - 12345678
 ## Video
 
 <video width="500" controls>
-  <source src="assets/images/vid.mp4.mp4" type="video/mp4">
+  <source src="assets/images/vid.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 

@@ -41,7 +41,7 @@ password - 12345678
 - `README.md`: This file, providing an overview, structure, and setup instructions for the project.
 
 ## Video
-[![Video Thumbnail](assets/images/re1.jpg)](https://github.com/rohittelgote23/medcare/blob/main/assets/images/vid.mp4)
+[Download Video](assets/images/vid.mp4)
 
 ## Singin Page
 

@@ -42,7 +42,10 @@ password - 12345678
 
 ## Video
 
-[![Video Thumbnail](assets/images/home1.jpg)](assets/images/vid.mp4)
+<video width="500" controls>
+  <source src="assets/images/vid.mp4.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ## Singin Page
 

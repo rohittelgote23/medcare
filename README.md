@@ -39,3 +39,44 @@ password - 12345678
 
 - `pubspec.yaml`: Configuration file for dependencies, assets, and Flutter settings.
 - `README.md`: This file, providing an overview, structure, and setup instructions for the project.
+
+## Video
+
+[![Video Thumbnail](assets/images/home1.jpg)](assets/images/vid.mp4)
+
+## Singin Page
+
+<div style="display: flex; gap: 10px;">
+  <img src="assets/images/singin1.jpg" width="45%">
+  <img src="assets/images/singin2.jpg" width="45%">
+</div>
+
+## Home Page
+
+<div style="display: flex; gap: 10px;">
+  <img src="assets/images/home1.jpg" width="45%">
+  <img src="assets/images/home2.jpg" width="45%">
+</div>
+<hr>
+<div style="display: flex; gap: 10px;">
+  <img src="assets/images/homepop.jpg" width="60%">
+</div>
+
+## Report Page
+
+<div style="display: flex; gap: 10px;">
+  <img src="assets/images/re1.jpg" width="60%">
+</div>
+
+## User Page
+
+<div style="display: flex; gap: 10px;">
+  <img src="assets/images/user1.jpg" width="50%">
+  <img src="assets/images/user2.jpg" width="50%">
+</div>
+
+## add Page
+
+<div style="display: flex; gap: 10px;">
+  <img src="assets/images/add.jpg" width="60%">
+</div>

@@ -41,7 +41,8 @@ password - 12345678
 - `README.md`: This file, providing an overview, structure, and setup instructions for the project.
 
 ## Video
-[Download Video](assets/images/vid.mp4)
+[Download Video](assets/images/vid.mp4)<hr>
+[Google Drive Link](https://drive.google.com/file/d/1c4TyMB_MsjR3kbSqR_3KfRBcExcOI1JO/view?usp=sharing)
 
 ## Singin Page
 
